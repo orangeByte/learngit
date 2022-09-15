@@ -3,4 +3,4 @@ hello, world!
 hello, 33!
 hello, everyone!
 hello, me!
-tracks changes
+tracks changes of files.
