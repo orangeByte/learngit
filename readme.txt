@@ -5,4 +5,4 @@ hello, everyone!
 hello, me!
 tracks changes of files.
 
-hello, github!
+hello, github you!
