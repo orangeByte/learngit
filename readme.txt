@@ -1,4 +1,4 @@
-hello, git!
+hello, git and git1!
 hello, world!
 hello, 33!
 hello, everyone!
@@ -10,3 +10,6 @@ hello, github and you!
 =======
 hello, github and you!
 >>>>>>> feature1
+
+
+sample
