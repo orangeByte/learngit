@@ -5,4 +5,8 @@ hello, everyone!
 hello, me!
 tracks changes of files.
 
-hello, github you!
+<<<<<<< HEAD
+hello, github and you!
+=======
+hello, github and you!
+>>>>>>> feature1
